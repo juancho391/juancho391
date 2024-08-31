@@ -6,6 +6,7 @@ Saurabh</a></h1>
 
 Backend Development: Developing backend applications with Django and FastAPI, including creating REST APIs.
 Image and Barcode Processing: Experienced with using OpenCV and Pyzbar for real-time barcode scanning.
+
 🌱 What I'm Learning:
 
 Always exploring new tools and technologies to expand my skills, from data science to cloud computing. I love learning new things that can boost my career, taking on new challenges, and trying out new technologies.
