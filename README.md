@@ -13,7 +13,7 @@ Always exploring new tools and technologies to expand my skills, from data scien
 
 🤝 Let's Connect:
 
-I'm always open to collaborating on interesting projects, learning from my peers and new experiences. I enjoy helping my team resolve doubts, contributing to open source, and I love working in teams and connecting with other developers.;&#127475</h3>
+I'm always open to collaborating on interesting projects, learning from my peers and new experiences. I enjoy helping my team resolve doubts, contributing to open source, and I love working in teams and connecting with other developers.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
