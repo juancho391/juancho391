@@ -24,7 +24,6 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 - 🔭 I’m currently studying at [Universidad Libre](https://www.google.com/search?client=safari&rls=en&q=universidad+libre+pereira&ie=UTF-8&oe=UTF-8)
 
-- 🌱 I’m currently Working on API user authentication (Python-Django-DRF
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Swift & SwiftUI [100DaysOfSwift](https://github.com/100rabhcsmc/100DaysOfSwift)
