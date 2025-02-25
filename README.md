@@ -26,7 +26,7 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift & SwiftUI [100DaysOfSwift](https://github.com/100rabhcsmc/100DaysOfSwift)
+- 🌱 I’m currently learning React and React Native
 
 - 💬 Ask me about **Python, Django, FastAPI**
 
