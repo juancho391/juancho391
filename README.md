@@ -5,12 +5,11 @@
 
 ### 💻 What I Do:
 
-- **Backend Development**: Developing backend applications with Django and FastAPI, including creating REST APIs.
-- **Image and Barcode Processing**: Experienced with using OpenCV and Pyzbar for real-time barcode scanning.
+- **Backend Development**: Developing full stack applications with Django and React including creating REST APIs.
 
 ### 🌱 What I'm Learning:
 
-Always exploring new tools and technologies to expand my skills, from data science to cloud computing. I love learning new things that can boost my career, taking on new challenges, and trying out new technologies.
+Always exploring new tools and technologies to expand my skills, from backend and frontend to cloud computing. I love learning new things that can boost my career, taking on new challenges, and trying out new technologies.
 
 ### 🤝 Let's Connect:
 
@@ -26,11 +25,11 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning NestJs and NextJs
 
-- 💬 Ask me about **Python, Django, FastAPI**
+- 💬 Ask me about **Python, Django, FastAPI, React**
 
-- 📫 How to reach me: **juanchischis2010@hotmail.com**
+- 📫 How to reach me: **juanbedoya3918@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/juancho391)
 
@@ -63,8 +62,10 @@ I'm always open to collaborating on interesting projects, learning from my peers
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-
