@@ -17,9 +17,9 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 ---
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="GIF">
+</p>
 
 - 🔭 I’m currently studying at [Universidad Libre](https://www.google.com/search?client=safari&rls=en&q=universidad+libre+pereira&ie=UTF-8&oe=UTF-8)
 
@@ -27,7 +27,7 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 - 🌱 I’m currently learning NestJs and NextJs
 
-- 💬 Ask me about **Python, Django, FastAPI, React**
+- 💬 Ask me about **Python, Django, React**
 
 - 📫 How to reach me: **juanbedoya3918@gmail.com**
 
@@ -37,17 +37,17 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 ---
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝</h3>
 
 <p align="center">
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/juan-esteban-bedoya-vasquez-08b4b8324/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  <a href="https://www.linkedin.com/in/juan-esteban-bedoya-vasquez-08b4b8324/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/juancho391">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+  <a href="https://github.com/juancho391" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/juanchobedoya_391/">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+  <a href="https://www.instagram.com/juanchobedoya_391/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"/>
   </a>
 </p>
 
@@ -69,3 +69,4 @@ I'm always open to collaborating on interesting projects, learning from my peers
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
