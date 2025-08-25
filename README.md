@@ -25,9 +25,9 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning NestJs and NextJs
+- 🌱 I’m currently learning ExpresJs and Hexagonal Architecture
 
-- 💬 Ask me about **Python, Django, React**
+- 💬 Ask me about **Python, FastAPI, React**
 
 - 📫 How to reach me: **juanbedoya3918@gmail.com**
 
