@@ -5,7 +5,7 @@
 
 ### 💻 What I Do:
 
-- **Backend Development**: Developing full stack applications with Django and React including creating REST APIs.
+- **Backend Development**: Developing full stack applications with FastAPI and React including creating REST APIs.
 
 ### 🌱 What I'm Learning:
 
