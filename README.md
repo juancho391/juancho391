@@ -31,7 +31,6 @@ I'm always open to collaborating on interesting projects, learning from my peers
 
 - 📫 How to reach me: **juanbedoya3918@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/juancho391)
 
 <br/>
 
